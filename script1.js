@@ -2,6 +2,9 @@ let result = document.getElementById("result");
 
 function addToDisplay(value) {
   result.value += value;
+  
+
+
 }
 
 function clearDisplay() {
